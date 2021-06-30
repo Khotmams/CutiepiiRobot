@@ -13,6 +13,9 @@ The Support group can be reached out to at [Black Knights Union](https://t.me/Bl
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khotmams/CutiepiiRobot.git)
+
+
 Thank you for contributing with me in this Project:
 + [Rajkumar](https://github.com/Awesome-RJ) : OWNER
 + [HuntingBots](https://github.com/HuntingBots) : ARQ MODULES
